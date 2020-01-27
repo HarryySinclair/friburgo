@@ -1,0 +1,49 @@
+img{
+    width:  15% !important;
+    height: 150px;    
+}
+
+
+
+
+p{
+    font-size: 22px;
+}
+
+footer{
+    background: #3F729B;
+    height: 200px;
+    width: 100%;
+}
+
+nav{
+    background: #3F729B;
+    height: 300px;  
+    width: 100% !important;
+}
+
+
+
+h1{
+    float: left 300px;
+}
+
+.img-fluid{
+    width: 100% !important;
+    height: auto;
+    margin: 1px solid black;
+}
+
+a{
+    color: black;
+    font-size: 30px;
+}
+
+
+nav img{
+  margin-left: 60px;
+  padding: 10px;
+  float: right;
+}
+
+
